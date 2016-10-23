@@ -1,2 +1,3 @@
-# 2048Game
-自己练手做的一个小游戏，同时适配移动端
+# imooc-Game
+1.2048游戏：参考链接http://www.imooc.com/learn/76
+2.爱心鱼小游戏：参考链接：http://www.imooc.com/learn/515
